@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">filterImage</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="select_image">Selecionar Imagem</string>
+    <string name="invert_color">Inverter Cor</string>
+    <string name="blackWrite">Preto e branco</string>
+</resources>
